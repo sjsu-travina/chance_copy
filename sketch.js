@@ -289,7 +289,7 @@ function youWin(){
 
 function youWinMouseClicked(){
   state = 'title';
-  points = 1;
+  points = 0;
 }
 
 function gameOver(){
